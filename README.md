@@ -1,7 +1,7 @@
 # PythonDiscBot
 A small proof of concept
 
-So far (31/07/18) it's just a really simple bot that will work as a template for later use.
+So far (31/07/18) it's just a really simple bot that will work as a template for me for later use.
 
 Basic design from https://github.com/Rapptz/discord.py
 
