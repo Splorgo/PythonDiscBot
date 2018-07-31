@@ -130,4 +130,4 @@ async def help(ctx):
 
 
 '''end'''
-bot.run("")
+bot.run("")     #key goes here
