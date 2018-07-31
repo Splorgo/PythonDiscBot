@@ -25,7 +25,7 @@ client = discord.Client()
 print(client.user)
 
 
-'''Need to use definitions to smooth stuff out'''
+'''Need to use dicts to smooth stuff out'''
 def RandomTrap():
     '''very low effort randomiser, pls no hate
         Why the fuck did i do this            '''
